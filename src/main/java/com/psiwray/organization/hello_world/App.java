@@ -1,4 +1,4 @@
-package com.psiwray.organization;
+package com.psiwray.organization.hello_world;
 
 /**
  * Hello world!
